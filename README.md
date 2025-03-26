@@ -1,7 +1,7 @@
-![Home Page](projectimage/todolistapp.png)
 # PHP To-Do List ✅
 
 A simple To-Do List application built using **PHP, MySQL, and XAMPP**.
+![Home Page](projectimage/todolistapp.png)
 
 ## 🚀 Features
 - Add, view, update, and delete tasks
